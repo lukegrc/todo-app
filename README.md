@@ -1,6 +1,6 @@
 # Todo App - Vue.js with TypeScript
 
-A modern, responsive todo application built with Vue.js 2 and TypeScript, featuring a clean design and full CRUD functionality.
+A modern, responsive todo application built with Vue.js 2 and TypeScript, featuring a full CRUD functionality.
 
 ## Features
 
